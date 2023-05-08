@@ -1,0 +1,11 @@
+{
+  "comment": "This is an auto-generated file, it keeps track of whats been built. This is a local file, don't store this in version control.",
+  "packages": {
+    "packages/api#test": {
+      "checksum": "6fe86cdaf0d33616a6c4808ab56e6b1dde7a6c1e",
+      "status": "succeeded",
+      "rerun": false,
+      "command": "test"
+    }
+  }
+}

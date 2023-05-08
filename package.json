@@ -6,5 +6,8 @@
   "repository": "https://github.com/capsbold/capsbold-starter-kit.git",
   "author": "CapsBold LTD <tech@capsbold.com>",
   "license": "MIT",
-  "packageManager": "yarn@3.5.1"
+  "packageManager": "yarn@3.5.1",
+  "workspaces": [
+    "packages/*"
+  ]
 }

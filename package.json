@@ -1,0 +1,10 @@
+{
+  "name": "capsbold-starter-kit",
+  "version": "1.0.0",
+  "description": "CapsBold - starter kit with NestJS, Nuxt 3, PostgreSQL, Redis and Docker",
+  "main": "index.js",
+  "repository": "https://github.com/capsbold/capsbold-starter-kit.git",
+  "author": "CapsBold LTD <tech@capsbold.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.5.1"
+}
